@@ -1,3 +1,3 @@
 # New Repo
 
-Demonstrates use of KBase build scripts.
+Demonstrates use of KBase build scripts and related workflows.
