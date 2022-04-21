@@ -1,3 +1,3 @@
-# New Repo Demo
+# New Repo
 
-Demonstrating the KBase build scripts.
+Demonstrates use of KBase build scripts.
