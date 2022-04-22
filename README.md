@@ -1,3 +1,3 @@
 # New Repo
 
-Demonstrates use of KBase build scripts and related workflows.
+Demonstrates use of KBase :octocat: build scripts and related workflows.
